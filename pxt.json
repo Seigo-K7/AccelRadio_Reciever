@@ -1,5 +1,5 @@
 {
-    "name": "가속도계-수신",
+    "name": "accel_reciever",
     "description": "",
     "dependencies": {
         "core": "*",
